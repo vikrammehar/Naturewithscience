@@ -1,0 +1,28 @@
+body{background-color: yellow;
+color: blue;}
+*{margin: 0;
+padding: 0;}
+.container{height: 50vh;}
+h1 .display-10{text-align: center;
+position: relative;
+left: 20vw;
+display: inline;}
+header nav{position: sticky;
+top: 0;}
+footer{background: black;
+color:white;}
+footer .red{background: black;
+color: white;
+width:  100vw;
+height:10vh;
+text-align: center;}
+.container4{display: flex;
+flex-direction: column;}
+.card2{align-self:center;
+flex-flow: row-reverse;}
+.card1{align-self: center;}
+.card3{align-self: center;}
+.card4{align-self: center;}
+
+
+
